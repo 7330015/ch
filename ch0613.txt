@@ -1,0 +1,60 @@
+Animax Asia (Vietnamese Subs) (720p),https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+Baby TV Asia (Vietnamese dub) (1080p),https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
+BBC Earth (Vietnamese dub) (1080p),https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
+Boomerang South East Asia (Vietnamese dub) (1080p),https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4 Asia (576p) [Geo-blocked],http://210.210.155.35/qwr9ew/s/s19/index.m3u8
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+CCTV-6电影 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐 (720p),http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=54&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CETV1 (576p),http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1
+CETV2 (576p),http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2
+CGTN (576p),https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+Channel 8 [Geo-blocked],https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
+Cinemax Asia (720p),https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+Creation TV (720p) [Not 24/7],http://al-pull2.hkatv.vip/live/CTV.m3u8
+DAAI TV Indonesia (720p) [Not 24/7],https://dacastmmd.mmdlive.lldns.net/dacastmmd/bf3a76722204472aa45938f2b67ef808/playlist.m3u8
+Dragon TV International (360p) [Geo-blocked],http://210.210.155.35/x6bnqe/s/s29/index.m3u8
+GEM (576p) [Geo-blocked],http://210.210.155.35/uq2663/h/h19/index.m3u8
+GSTV Gorgeous Space TV (1080p) [Not 24/7],http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoo-jAsJgM8z09ddlhcBlSA/live
+HBO Asia,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+HKSTV (香港衛視) (720p) [Not 24/7],https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
+iMode TV (1080p) [Not 24/7],https://juyunlive.juyun.tv/live/24950198.m3u8
+Indigenous TV (720p),http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+Kix (1080p),https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
+Love Nature (1080p),http://bamus-eng-roku.amagi.tv/playlist.m3u8
+My Cinema Asia (1080p) [Geo-blocked],http://210.210.155.35/uq2663/h/h193/index.m3u8
+National Geographic Wild Asia (1080p),https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
+NHK Chinese Vision (720p),https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NTV 7 (480p) [Not 24/7],https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+Phoenix Chinese Channel (鳳凰衛視中文) (576p) [Geo-blocked],http://210.210.155.35/uq2663/h/h157/index2.m3u8
+Pluto TV BabyFirst (720p) [Not 24/7],https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+TDM Info. Macau (720p) [Not 24/7],http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+TDM Macau (720p),http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+TDM Macau Satelite (720p),http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+TDM Sports Macau (720p),http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
+Tech Storm (720p) [Geo-blocked],https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
+Thrill (576p),http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+Toonmax TV (576p) [Geo-blocked],http://210.210.155.35/qwr9ew/s/s50/index.m3u8
+Türkmenistan (112p) [Not 24/7],https://alpha.tv.online.tm/hls/ch007.m3u8
+Türkmenistan Sport (406p) [Not 24/7],https://alpha.tv.online.tm/hls/ch004.m3u8
+TV8 (480p) [Not 24/7],https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+TV BRICS Chinese (1080p) [Not 24/7],https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+TVB J1 (720p) [Geo-blocked],https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+TVS2 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+ViuTVsix,http://61.238.6.49:8000/bysid/96
+Xing Kong International (360p),http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
+大愛2 (720p),https://pulltv2.wanfudaluye.com/live/tv2.m3u8
